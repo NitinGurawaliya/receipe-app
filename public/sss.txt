@@ -1,0 +1,21 @@
+Hello sir, 
+My name is Nitin I am from India currently doing bachelors in computer science. I have recently started learning Frontend Using ReactJs and Tailwind css as Html and css is a prerequisite for Reactjs. 
+I have already completed backend using MERN stack and made 3 project due to which I have strong grip over Javascript due to my backend skiils which will be helpful for your organisation.
+
+I have made 2 Backend projects and 1 frontend  project I will attach my github link you can check my project on it. 
+1. Course selling app- Made using Mongodb, Expressjs, Nodejs only backend and API's tested on Postman. Users can signup and purchase a course and list all the purchases courses.
+
+2 Payment app - Frontend using React and Tailwind css Backend using Mongodb, Expressjs and Nodejs. Authentication using JWT. User can signup and will be given a dummy balance and can send money to any of its contacts. Frontend and backend is yet to be connected. 
+
+3 Receipe Finder app- Purely frontend Project used Reactjs and tailwind css. And receipe api to get receipe's. Deployment is yet to be done.
+
+So using MERN stack I have made all these projects but there is a gap in my konwledge in frontend is that I have not made a full fledged app for frontend I know the basics but now worked on a real world project. I wish to get this internship so that I can apply my frontend learnings of Html and css and I think my backend skills will be of great help during this internship.
+I am also open to learn new frameworks or any new technology like Vue.js as mentioned. 
+I need this internship so that i practice frontend and can see myself as a fullstack dev before this winters starts so that I can sit in my college internship next year. I really don't care about pay i can even work at $10-$15 a day I just need to get deep into frontend dev at any cost. 
+
+My github link is attached and project zip files are also upladed. 
+I hope to get a favourable response .
+Thank you.
+
+
+
